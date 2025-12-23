@@ -45,16 +45,3 @@ python -m venv venv
 .\venv\Scripts\activate
 Kütüphaneleri yükle:
 
-PowerShell
-
-pip install httpx pytest pytest-html
-requirements.txt dosyasını oluştur:
-
-PowerShell
-
-pip freeze > requirements.txt
-Testi çalıştırıp rapor al:
-
-PowerShell
-
-pytest --html=report.html
