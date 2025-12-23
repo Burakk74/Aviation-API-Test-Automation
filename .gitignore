@@ -1,0 +1,13 @@
+# Python sanal ortam (Virtual Environment)
+venv/
+.venv/
+env/
+
+# Pycache (Python'ın çalışma dosyaları)
+**/__pycache__/
+*.py[cod]
+
+# Test Raporları (Bunlar yerel bilgisayarda kalsın)
+report.html
+assets/
+.pytest_cache/
