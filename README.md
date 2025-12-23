@@ -34,14 +34,4 @@ Install dependencies: pip install -r requirements.txt
 
 Run tests: pytest --html=report.html
 
-3. Uygulama Adımları (Senin Yapacakların)
-Şu an terminalde (proje klasöründeyken) şu komutları sırayla çalıştırarak ortamı kurabilirsin:
-
-Sanal ortamı oluştur ve aktif et:
-
-PowerShell
-
-python -m venv venv
-.\venv\Scripts\activate
-Kütüphaneleri yükle:
-
+ 
